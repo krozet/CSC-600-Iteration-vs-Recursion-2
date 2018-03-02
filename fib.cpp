@@ -17,7 +17,7 @@ unsigned long long Fit(unsigned int n);
 void fibTimeMeasurement(unsigned int n);
 
 int main(int argc, char const** argv) {
-  fibTimeMeasurement(30);
+  fibTimeMeasurement(46);
 
   return 0;
 }
